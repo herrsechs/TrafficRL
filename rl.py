@@ -6,7 +6,7 @@ LR_A = 0.001  # Actor 学习率
 LR_C = 0.001  # Critic 学习率
 GAMMA = 0.9   # reward 折扣率
 TAU = 0.01    # soft replacement
-MEMORY_CAPACITY = 10000
+MEMORY_CAPACITY = 10000 # 容量
 BATCH_SIZE = 32
 
 
